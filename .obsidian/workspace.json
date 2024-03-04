@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "491c854d723e6c4d",
@@ -141,13 +142,15 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
   "active": "5be3a6c39be4effd",
   "lastOpenFiles": [
+    "Images/Zen/WikiZenDefinition.jpg",
+    "Images/Zen",
+    "Images",
     "README.md",
     "Zen.md",
     "LICENSE",
